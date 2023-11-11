@@ -1,9 +1,4 @@
-font-family: 'DM Sans', sans-serif;
-font-family: 'Josefin Sans', sans-serif;
-font-family: 'Lora', serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Varela', sans-serif;
-
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:opsz,wght@9..40,400;9..40,700&family=Josefin+Sans:wght@100;200;300;400;500;600&family=Lora:ital,wght@1,400;1,500;1,600&family=Montserrat:wght@700&family=Varela&display=swap');
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
